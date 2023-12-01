@@ -1,1 +1,86 @@
-[{}]
+[
+    {
+        "numeroPieza": 1,
+        "nombre": "Guerrero Vikingo",
+        "precio": 25000,
+        "madera": "Cedro",
+        "stock": 1
+    },
+    {
+        "numeroPieza": 2,
+        "nombre": "Earl Vikingo",
+        "precio": 10000,
+        "madera": "Cedro",
+        "stock": 1
+    },
+    {
+        "numeroPieza": 3,
+        "nombre": "Earl Vikingo II",
+        "precio": 10000,
+        "madera": "Cedro",
+        "stock": 1
+    },
+    {
+        "numeroPieza": 4,
+        "nombre": "Hechicero",
+        "precio": 12000,
+        "madera": "Cedro",
+        "stock": 2
+    },
+    {
+        "numeroPieza": 5,
+        "nombre": "Sabio",
+        "precio": 8000,
+        "madera": "Cedro",
+        "stock": 1
+    },
+    {
+        "numeroPieza": 6,
+        "nombre": "Guardia",
+        "precio": 10000,
+        "madera": "Cedro",
+        "stock": 1
+    },
+    {
+        "numeroPieza": 7,
+        "nombre": "Rey",
+        "precio": 10000,
+        "madera": "Fresno",
+        "stock": 1
+    },
+    {
+        "numeroPieza": 8,
+        "nombre": "Reina",
+        "precio": 10000,
+        "madera": "Fresno",
+        "stock": 1
+    },
+    {
+        "numeroPieza": 9,
+        "nombre": "Escudera",
+        "precio": 12000,
+        "madera": "Cedro",
+        "stock": 1
+    },
+    {
+        "numeroPieza": 10,
+        "nombre": "Caballero",
+        "precio": 18000,
+        "madera": "Fresno",
+        "stock": 1
+    },
+    {
+        "numeroPieza": 11,
+        "nombre": "Caballero II",
+        "precio": 18000,
+        "madera": "Fresno",
+        "stock": 1
+    },
+    {
+        "numeroPieza": 12,
+        "nombre": "Hechicero II",
+        "precio": 12000,
+        "madera": "Fresno",
+        "stock": 1
+    }
+]
